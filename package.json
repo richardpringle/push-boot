@@ -1,0 +1,22 @@
+{
+  "name": "mutli-host-cluster",
+  "version": "0.0.1",
+  "description": "Proof-of-concept repository, where each branch is a proof of concept",
+  "main": "master.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestwealth/poc.git#multi-host-master-slave"
+  },
+  "author": "Richard Pringle",
+  "license": "unlicensed",
+  "bugs": {
+    "url": "https://github.com/nestwealth/poc/issues"
+  },
+  "homepage": "https://github.com/nestwealth/poc/tree/multi-host-master-slave",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
